@@ -40,3 +40,5 @@ A curated collection of useful online tools for developers, designers, creators,
 - [ImmuniWeb - SSL Security Test](https://www.immuniweb.com/ssl/)
 
 
+### AI
+- [Cloudflare - Is Your Site Agent-Ready?](https://isitagentready.com/) - Scan your website to see how ready it is for AI agents
