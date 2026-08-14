@@ -5,8 +5,12 @@ A curated collection of useful online tools for developers, designers, creators,
 - [Network](https://github.com/Ourob0ros69/awesome-online-tools#network)
 - [WebSec](https://github.com/Ourob0ros69/awesome-online-tools#websec)
   - [Malware](https://github.com/Ourob0ros69/awesome-online-tools/edit/main/README.md#malware)
+  - [Subdomains](https://github.com/Ourob0ros69/awesome-online-tools/edit/main/README.md#subdomains)
 - [Email](https://github.com/Ourob0ros69/awesome-online-tools#email)
 - [SSL](https://github.com/Ourob0ros69/awesome-online-tools#ssl)
+- [AI](https://github.com/Ourob0ros69/awesome-online-tools#ai)
+- [Dorks](https://github.com/Ourob0ros69/awesome-online-tools/edit/main/README.md#dorks)
+  - [Google Dorks](https://pentest-tools.com/information-gathering/google-hacking) 
 
 
 ## CyberSec
@@ -31,14 +35,25 @@ A curated collection of useful online tools for developers, designers, creators,
 - [Sucuri - Free website malware and security checker](https://sitecheck.sucuri.net/)
 
 
+#### Subdomains
+- [Pentest Tools - Subdomain Finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+
+
 ### Email
 - [MX Lookup](https://mxtoolbox.com/)
+- [ImmuniWeb - Email Security Test](https://www.immuniweb.com/email/)
 
 
 ### SSL
 - [Qualys - SSL Labs](https://www.ssllabs.com/ssltest)
 - [ImmuniWeb - SSL Security Test](https://www.immuniweb.com/ssl/)
+- [Pentest Tools - SSL/TLS Scanner](https://pentest-tools.com/network-vulnerability-scanning/ssl-tls-scanner)
 
 
 ### AI
 - [Cloudflare - Is Your Site Agent-Ready?](https://isitagentready.com/) - Scan your website to see how ready it is for AI agents
+
+
+### Dorks
+#### Google Dorks
+- [Pentest Tools - Google Hacking](https://pentest-tools.com/information-gathering/google-hacking)
