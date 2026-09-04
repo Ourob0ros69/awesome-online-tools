@@ -49,7 +49,7 @@ A curated collection of useful online tools for developers, designers, creators,
 
 
 #### WHOIS
-- [WHOIS Lookup] (https://digga.dev/whois)
+- [WHOIS Lookup](https://digga.dev/whois)
 
 
 #### RDAP
