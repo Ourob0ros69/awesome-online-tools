@@ -30,6 +30,7 @@ A curated collection of useful online tools for developers, designers, creators,
 - [Hardenize](https://www.hardenize.com/)
 - [ImmuniWeb - Website Security Test](https://www.immuniweb.com/websec/)
 - [ScanTower - Free Website Security Checker](https://scantower.io/website-security-checker)
+- [Digga - DNS Lookup](https://digga.dev/dns)
 
 #### Malware
 - [Sucuri - Free website malware and security checker](https://sitecheck.sucuri.net/)
@@ -37,21 +38,33 @@ A curated collection of useful online tools for developers, designers, creators,
 
 #### Subdomains
 - [Pentest Tools - Subdomain Finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+- [Digga - Subdomain Finder](https://digga.dev/subdomains)
 
 
 ### Email
 - [MX Lookup](https://mxtoolbox.com/)
 - [ImmuniWeb - Email Security Test](https://www.immuniweb.com/email/)
+- [IntoDNS](https://intodns.ai/)
+- [Digga - Email Security](https://digga.dev/email)
 
 
 ### SSL
 - [Qualys - SSL Labs](https://www.ssllabs.com/ssltest)
 - [ImmuniWeb - SSL Security Test](https://www.immuniweb.com/ssl/)
 - [Pentest Tools - SSL/TLS Scanner](https://pentest-tools.com/network-vulnerability-scanning/ssl-tls-scanner)
+- [Digga - SSL and TLS Certificate Test](https://digga.dev/tls)
 
 
 ### AI
 - [Cloudflare - Is Your Site Agent-Ready?](https://isitagentready.com/) - Scan your website to see how ready it is for AI agents
+
+
+### WHOIS
+- [WHOIS Lookup] (https://digga.dev/whois)
+
+
+### RDAP
+- [Digga - RDAP Lookup](https://digga.dev/rdap)
 
 
 ### Dorks
