@@ -7,9 +7,9 @@ A curated collection of useful online tools for developers, security researchers
 
 ## Contents
 
-* [CyberSec](https://github.com/Ourob0ros69/awesome-online-tools/edit/main/README.md#cybersec)
-  * [Security Rating](https://github.com/Ourob0ros69/awesome-online-tools/edit/main/README.md#security-rating)
-  * [Network](https://github.com/Ourob0ros69/awesome-online-tools/edit/main/README.md#network)
+* [CyberSec](#cybersec)
+  * [Security Rating](#security-rating)
+  * [Network](#network)
   * [WebSec](#websec)
     * [Malware](#malware)
     * [Subdomains](#subdomains)
