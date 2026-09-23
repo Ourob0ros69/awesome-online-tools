@@ -188,6 +188,7 @@ A curated collection of useful online tools for developers, security researchers
 | [Cloudflare - Is Your Site Agent-Ready?](https://isitagentready.com/) | AI-agent readiness testing             | Free   | No           | No  |
 | [AgentReady.dev](https://www.agentready.dev/)                         | Website AI-agent readiness audit       | Free   | No           | No  |
 | [AgentReady.tools](https://www.agentready.tools/)                     | AI-agent readiness scanning            | Free   | No           | No  |
+| [NextReset](https://nextreset.ai/)                                      | Codex reset history and AI incident reference | Free | No | No |
 
 ---
 
